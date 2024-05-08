@@ -1,3 +1,5 @@
+This is a fork of [apper](https://github.com/tapnair/apper) that fixes an issue with os.__file__
+
 Welcome to apper!
 =================================
 
